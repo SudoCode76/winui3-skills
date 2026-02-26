@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npx skills add winui3-full-skill
+npx skills add SudoCode76/winui3-skills
 ```
 
 Works with **OpenCode**, **Claude Code**, **GitHub Copilot**, **Cursor**, **Windsurf**, **Cline**, **Codex**, and [40+ other agents](https://skills.sh).
