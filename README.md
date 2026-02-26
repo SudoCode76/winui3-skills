@@ -1,13 +1,13 @@
-# WinUI 3 Full Skill — AI Agent Skill for Windows App SDK
+# WinUI 3 Full Skill
 
-> An agent skill that gives any AI coding assistant **complete WinUI 3 knowledge**: ~70 controls, MVVM/DI patterns, Fluent Design, accessibility, theming, and windowing — all backed by real code from the WinUI Gallery.
+> An AI agent skill that gives any coding assistant **complete WinUI 3 knowledge**: ~70 controls, MVVM/DI patterns, Fluent Design, accessibility, theming, and windowing — all backed by real code from the WinUI Gallery.
 
 ---
 
 ## Install
 
 ```bash
-npx skills add <your-github-user>/winui3-full-skill
+npx skills add winui3-full-skill
 ```
 
 Works with **OpenCode**, **Claude Code**, **GitHub Copilot**, **Cursor**, **Windsurf**, **Cline**, **Codex**, and [40+ other agents](https://skills.sh).
@@ -137,20 +137,20 @@ winui3-full-skill/
 
 ## Quick-start examples
 
-### Ask your agent to scaffold a page
+### Scaffold a page
 
 ```
 Create a products list page for a WinUI 3 app. Use ListView with a DataTemplate,
 MVVM with CommunityToolkit.Mvvm, async data loading, and an InfoBar for errors.
 ```
 
-### Ask for a specific control
+### Use a specific control
 
 ```
 Show me how to use ContentDialog in WinUI 3 with async/await and a result enum.
 ```
 
-### Ask for the full app shell
+### Generate a full app shell
 
 ```
 Generate a WinUI 3 app shell with NavigationView, a Frame, back navigation,
