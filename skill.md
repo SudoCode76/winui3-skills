@@ -1,3 +1,8 @@
+---
+name: winui3-full-skill
+description: Generates production-quality WinUI 3 (Windows App SDK 1.8+) code — XAML + C# snippets for all ~70 controls, MVVM/DI patterns, Fluent Design, async, accessibility, and theming best practices.
+---
+
 # WinUI 3 Full Skill
 
 ## Role
